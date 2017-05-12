@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+     <title> Hedgehogs </title>
+     <link rel = "stylesheet" type = "text/css" href = "mystyles.css">
+     <script src = "javascript.js" type = "text/javascript"></script>
+   </head>
+
+
+   <body>
+      <div id = "wrapperDiv">
+         <div id = "headerDiv">
+           <h1>Hedgehogs</h1>
+         </div>
+
+         <div id = "navDiv">
+
+           <a href = "index.html"><div class = "buttonDiv"> About Hedgehogs </div></a>
+           <a href = "http://www.vetstreet.com/our-pet-experts/hedgehogs-as-pets-what-you-need-to-know"> <div class = "buttonDiv"> Hedgehogs as Pets </div></a>
+           <a href = "http://mentalfloss.com/article/56004/16-fun-facts-about-hedgehogs"> <div class = "buttonDiv">Fun Facts </div></a>
+           <a href = "indexCarosel.html"> <div class = "buttonDiv">Hedgehog Gallery </div> </a> 
+         </div>
+
+         <div id = "bodyDiv">
+
+		   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet lectus et ipsum placerat ullamcorper. Integer iaculis, sem id vehicula sagittis, magna quam imperdiet ipsum, eu convallis magna nulla sit amet diam. Nam eget ultricies nibh. In hac habitasse platea dictumst. Nam vitae enim ac magna blandit mattis non sed nisi. Ut condimentum sapien eget mauris interdum tincidunt commodo a lacus. Suspendisse vel aliquam lorem, quis malesuada nulla. Fusce ut tellus ut felis interdum bibendum. Curabitur sodales enim ac risus feugiat, ac fermentum eros vulputate. Vestibulum viverra ornare ultricies. Aliquam facilisis vehicula ex at eleifend. Sed euismod justo at urna sodales tempus. Duis ullamcorper metus quis ipsum porttitor, ut posuere sem placerat. Nunc feugiat erat a odio egestas feugiat. Curabitur blandit leo tincidunt tellus hendrerit pellentesque. Sed ultricies ante ac dolor sagittis fringilla.</p>
+		              
+           <div class="container">
+  			<img src="hedgehog.jpg" alt="Hedgehog" class="image"  id = "hedgehog">
+  				<div class="overlay">
+   				 <div class="text">Spike the Hedgehog</div>
+  				</div>
+			</div>
+		   <p>Fusce malesuada pharetra lacus ut porta. Fusce tincidunt elementum ligula, quis blandit augue. Duis condimentum, lorem in porttitor sollicitudin, velit diam tincidunt quam, a condimentum nisi dui a lacus. Nam efficitur lorem quis purus malesuada scelerisque. Donec dictum dignissim nisl eget tincidunt. Donec libero elit, commodo vel consequat nec, cursus ac orci. Morbi eu porta risus, id efficitur enim. Ut eu magna non nunc scelerisque dignissim non eu nibh. Nulla mollis porttitor sagittis. Donec vel tincidunt justo. Etiam ullamcorper in neque et dictum. Maecenas fringilla, ligula nec lobortis vehicula, mauris velit vehicula turpis, et rutrum ipsum neque sit amet diam. Quisque vulputate velit libero, porttitor luctus justo molestie nec. Quisque porta, quam sed luctus venenatis, eros metus interdum augue, quis imperdiet metus justo ac turpis. Duis semper ante vel nulla hendrerit efficitur at vitae est.</p>
+           <p> Mi sem nibh lacus proin duis. Hymenaeos duis semper egestas. Litora sed eros dictum phasellus tincidunt, placerat urna morbi, perferendis ac dolor fusce. Turpis donec libero nam, vel arcu duis, fermentum lectus pariatur, massa aenean id tristique ipsum, diam luctus suscipit urna vestibulum. Eget ut praesent dapibus per, sodales donec nunc justo condimentum augue, egestas cursus felis elit, vel commodo, etiam purus. Tortor massa, blandit fusce lacinia non morbi. Ipsam ut aliquet urna, faucibus fringilla sagittis orci sodales nibh, volutpat id cursus mi senectus aliquet vestibulum. Maecenas netus quis nisl elit nunc vitae. Id pharetra vestibulum nam nam, semper eu venenatis vehicula etiam. Magna erat, orci hac convallis arcu sit, donec phasellus eros libero conubia velit dolor, volutpat congue maecenas, integer nonummy dui dictum nec suscipit est. Elementum neque egestas lectus amet sed, fermentum nonummy, magna commodo dignissim ante rhoncus ante, suspendisse aliqua vitae non suscipit arcu pellentesque, class massa et. </p>
+           
+         </div>
+
+         <div id = "footDiv">
+           <h3>Kara's Hedgehog Page</h3>
+         </div>
+       </div>
+   </body>
+
+</html>
